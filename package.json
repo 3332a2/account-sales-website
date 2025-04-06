@@ -1,6 +1,5 @@
-
 {
-  "name": "account-sales-site",
+  "name": "account-sales-website",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -12,7 +11,7 @@
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
+    "autoprefixer": "latest",
+    "postcss": "latest"
   }
 }
